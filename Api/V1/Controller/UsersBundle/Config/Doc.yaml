@@ -1,0 +1,5 @@
+service: doc
+index:
+    http: get
+    params: { page: { required: false, type: numeric } }
+    headers: {  }

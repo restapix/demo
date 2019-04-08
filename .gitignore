@@ -1,0 +1,4 @@
+./idea
+Storage/Log/*
+Storage/Resource/*
+Storage/Session/*
